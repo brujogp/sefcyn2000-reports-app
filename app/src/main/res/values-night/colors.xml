@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#576683</color>
+    <color name="color_primary_variant">#4b576e</color>
+    <color name="color_primary_variant_for_gradiant">#374051</color>
+    <color name="secondary_color">#3c4457</color>
+    <color name="optional_background_color">#772E83</color>
+    <color name="secondary_color_dark">#2D3342</color>
+    <color name="fab">#6a7e9e</color>
+    <color name="accent_color">#d6686f</color>
+    <color name="color_icons">#FFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
